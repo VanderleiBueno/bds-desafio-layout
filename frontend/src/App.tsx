@@ -1,14 +1,10 @@
-import Navbar from 'components/Navbar';
-
 import './assets/styles/custom.scss';
 import './App.css';
+import Routes from 'Routes';
 
-const App = () => {
+function App () {
   return (
-  <>
-    <Navbar />;
-    <h1>Hello layout challenge</h1>;
-  </>
+    <Routes />
   );
 }
 

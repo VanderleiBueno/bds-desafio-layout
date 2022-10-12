@@ -1,0 +1,15 @@
+.btn-icon {
+  color: #fff;
+  background-color: #00285f;
+  border-radius: 5px;
+}
+
+.btn-icon p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  width: 140px;
+  height: 30px;
+}
